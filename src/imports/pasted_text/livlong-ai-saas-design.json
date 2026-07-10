@@ -1,0 +1,713 @@
+Design a premium enterprise SaaS web application called Livlong AI Insurance Intelligence Platform.
+
+The application is an AI-powered Insurance Broker CRM + Business Intelligence + Analytics + Automation Platform inspired by Microsoft Power BI Copilot, Salesforce Einstein, Microsoft Fabric, Tableau Pulse, Notion AI, and Stripe Dashboard.
+
+The UI should look like a 2026 modern enterprise product with glassmorphism, soft shadows, rounded cards (18px), subtle gradients, smooth animations, premium typography, excellent spacing, and a clean professional design.
+
+Primary colors:
+
+Blue (#2563EB)
+Indigo
+White
+Light Gray
+Emerald for success
+Orange for warnings
+Red for critical alerts
+
+Use Inter or SF Pro font.
+
+Create realistic mock data throughout the application.
+
+Sidebar Navigation
+
+Dashboard
+
+AI Copilot
+
+Leads
+
+Customers
+
+Policies
+
+Revenue
+
+Brokerage
+
+Renewals
+
+Claims
+
+Agents / POSP
+
+Branches
+
+Products
+
+Marketing
+
+Compliance
+
+Documents
+
+Reports
+
+Settings
+
+Top Navigation
+
+Company Logo
+
+Global Search
+
+AI Assistant Button
+
+Notifications
+
+Dark Mode Toggle
+
+Profile Menu
+
+PAGE 1
+Executive Dashboard
+
+Large hero section
+
+Display KPI Cards
+
+Today's Premium Sold
+
+₹2.48 Cr
+
+Brokerage Earned
+
+₹24.6 Lakh
+
+Brokerage Pending
+
+₹5.2 Lakh
+
+Policies Issued
+
+1,428
+
+Claims Pending
+
+42
+
+Renewals Due Today
+
+316
+
+Lead Conversion
+
+32%
+
+Customer Satisfaction
+
+94%
+
+Below KPI cards
+
+Monthly Premium Trend
+
+Revenue Trend
+
+Product Mix
+
+Top Insurers
+
+Branch Performance
+
+Top Agents
+
+Renewal Funnel
+
+Claims Overview
+
+Heatmap of India
+
+Recent Activities
+
+Upcoming Renewals
+
+Latest Claims
+
+Alerts
+
+Right Side
+
+AI Executive Summary Card
+
+Example
+
+"Good Morning Raj"
+
+Yesterday business increased by 14%.
+
+Health Insurance generated the highest revenue.
+
+Motor Insurance declined by 8%.
+
+47 renewals are at high risk.
+
+Mumbai branch exceeded target.
+
+Pune branch requires attention.
+
+Brokerage worth ₹6.3L is pending.
+
+Suggested Actions
+
+Call 32 high-value customers
+
+Follow up with ICICI Lombard
+
+Assign senior advisor to renewal cases
+
+Floating AI Chat Button
+
+PAGE 2
+AI Copilot
+
+Beautiful ChatGPT-like interface
+
+Conversation history
+
+Suggested prompts
+
+Why did revenue decrease?
+
+Show top performing branches
+
+Predict renewals
+
+Generate MIS report
+
+Compare this month with last month
+
+Large AI response cards
+
+Response includes
+
+Charts
+
+Tables
+
+KPIs
+
+Insights
+
+Recommendations
+
+Buttons
+
+Create Report
+
+Export
+
+Share
+
+PAGE 3
+Leads Dashboard
+
+Lead Funnel
+
+Lead Source
+
+Conversion
+
+Sales Pipeline
+
+Top Campaigns
+
+Hot Leads
+
+Lead Score
+
+Mock Table
+
+Lead Name
+
+Score
+
+Probability
+
+Advisor
+
+Status
+
+Action
+
+AI Suggestions
+
+Call Today
+
+High Priority
+
+Likely to Buy
+
+Cold Lead
+
+PAGE 4
+Customer 360
+
+Beautiful customer profile
+
+Customer Photo
+
+Personal Details
+
+Insurance Portfolio
+
+Premium History
+
+Claims History
+
+Renewal Timeline
+
+Communication Timeline
+
+Family Members
+
+Policies
+
+Health Score
+
+Lifetime Value
+
+AI Summary
+
+"This customer has 92% renewal probability.
+
+Recommend Critical Illness Cover."
+
+Cross Sell Recommendations
+
+PAGE 5
+Policy Dashboard
+
+Policy Status Cards
+
+Active
+
+Expired
+
+Pending
+
+Cancelled
+
+Lapsed
+
+Policy Table
+
+Policy Timeline
+
+Premium Analysis
+
+Coverage Analysis
+
+Policy Distribution Map
+
+AI Insights
+
+PAGE 6
+Revenue Dashboard
+
+Premium
+
+Brokerage
+
+Receivable
+
+Received
+
+Pending
+
+Collection %
+
+Waterfall Chart
+
+Revenue Trend
+
+Cash Flow
+
+Monthly Comparison
+
+Insurer Revenue
+
+Revenue Leakage
+
+Finance AI Summary
+
+PAGE 7
+Brokerage Reconciliation
+
+Expected Commission
+
+Received Commission
+
+Difference
+
+Pending
+
+Aging Analysis
+
+Outstanding Table
+
+AI detects
+
+Missing Commission
+
+Duplicate Payment
+
+Delayed Settlement
+
+Revenue Leakage
+
+Shows warning cards
+
+PAGE 8
+Renewal Intelligence
+
+Renewal Calendar
+
+Upcoming Renewals
+
+Renewal Funnel
+
+Renewal Probability
+
+Renewal Heatmap
+
+Customer Priority List
+
+Risk Score
+
+AI Recommendation
+
+"Call these 20 customers first."
+
+PAGE 9
+Claims Dashboard
+
+Claims Status
+
+Cashless
+
+Reimbursement
+
+Pending
+
+Approved
+
+Rejected
+
+Settlement Time
+
+Claim Trend
+
+Hospital Analysis
+
+TPA Performance
+
+Fraud Risk Score
+
+AI Claim Assistant
+
+Document Validation
+
+Missing Documents
+
+Recommended Actions
+
+PAGE 10
+Agent / POSP Dashboard
+
+Leaderboard
+
+Productivity
+
+Revenue
+
+Commission
+
+Target Achievement
+
+Training Progress
+
+Certification Status
+
+Performance Score
+
+AI Coach
+
+Suggested Training
+
+Inactive Agents
+
+High Performers
+
+PAGE 11
+Branch Performance
+
+India Map
+
+Branch Ranking
+
+Revenue
+
+Premium
+
+Conversion
+
+Claims
+
+Renewals
+
+Target Achievement
+
+Regional Comparison
+
+AI Insights
+
+PAGE 12
+Product Analytics
+
+Health
+
+Motor
+
+Life
+
+Travel
+
+Corporate
+
+Product Growth
+
+Profitability
+
+Sales Distribution
+
+Customer Segments
+
+Cross Sell Matrix
+
+AI Product Recommendation
+
+PAGE 13
+Marketing Dashboard
+
+Campaign ROI
+
+SMS
+
+Email
+
+WhatsApp
+
+Digital Ads
+
+Lead Sources
+
+Conversion Funnel
+
+Customer Acquisition Cost
+
+AI Campaign Suggestions
+
+PAGE 14
+Compliance Dashboard
+
+IRDAI Compliance
+
+DPDP Compliance
+
+Consent Status
+
+Audit Logs
+
+Risk Alerts
+
+Role Access
+
+Security Events
+
+Policy Violations
+
+AI Compliance Assistant
+
+PAGE 15
+Document Intelligence
+
+Drag & Drop Upload
+
+Upload
+
+Policy PDF
+
+Claim PDF
+
+Invoice
+
+Commission Statement
+
+AI extracts
+
+Policy Number
+
+Customer Name
+
+Premium
+
+Commission
+
+Hospital
+
+Claim Amount
+
+Missing Fields
+
+Validation Result
+
+Confidence Score
+
+PAGE 16
+AI Forecasting
+
+Premium Forecast
+
+Revenue Forecast
+
+Renewal Forecast
+
+Claims Forecast
+
+Customer Growth
+
+Sales Forecast
+
+Interactive prediction charts
+
+Confidence %
+
+Scenario Simulation
+
+PAGE 17
+AI Recommendation Center
+
+High Priority Customers
+
+Revenue Opportunities
+
+Risk Alerts
+
+Cross Sell Opportunities
+
+Agent Recommendations
+
+Claim Recommendations
+
+One-click Action Buttons
+
+Assign
+
+Notify
+
+Call
+
+Approve
+
+Export
+
+PAGE 18
+AI Workflow Automation
+
+Visual Workflow Builder
+
+Lead Assignment
+
+Renewal Reminder
+
+Claim Escalation
+
+Email Automation
+
+WhatsApp Automation
+
+Task Automation
+
+Trigger Builder
+
+Workflow History
+
+PAGE 19
+Reports Center
+
+Generate
+
+Daily MIS
+
+Weekly Report
+
+Monthly Report
+
+Quarterly Review
+
+Board Report
+
+PowerPoint
+
+Excel
+
+PDF
+
+One-click AI Report Generator
+
+PAGE 20
+AI Voice Assistant
+
+Modern microphone UI
+
+Voice conversation
+
+Examples
+
+"Show today's revenue"
+
+"Open Claims Dashboard"
+
+"Predict renewals"
+
+Live transcription
+
+AI response cards
+
+Design Style
+
+Use enterprise-level premium UI.
+
+Large KPI cards with icons.
+
+Beautiful gradients.
+
+Floating glass cards.
+
+Interactive charts.
+
+Animated widgets.
+
+Modern tables.
+
+Rounded buttons.
+
+Hover effects.
+
+Soft shadows.
+
+Excellent spacing.
+
+Professional dashboard layout.
+
+Every page should contain an AI Insights Panel on the right with natural-language business analysis and actionable recommendations. Use realistic insurance industry mock data across all dashboards, ensuring the prototype feels like a production-ready AI platform that could compete with Power BI Copilot, Salesforce Einstein, and Tableau Pulse.
